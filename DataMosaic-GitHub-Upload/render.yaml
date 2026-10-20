@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: autoclean
+    runtime: docker
+    plan: starter
+    healthCheckPath: /api/health
+    envVars:
+      - key: GROQ_API_KEY
+        sync: false
+      - key: GROQ_MODEL
+        value: openai/gpt-oss-120b
+      - key: DATA_DIR
+        value: /app/backend/data
+    disk:
+      name: datasets
+      mountPath: /app/backend/data
+      sizeGB: 1

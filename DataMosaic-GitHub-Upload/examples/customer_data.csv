@@ -1,0 +1,33 @@
+customer_id,age,annual_income,city,visits,spend,subscribed
+C001,28,54000,Boston,8,420,yes
+C002,34,72000,New York,12,680,no
+C003,,48000, Boston ,5,240,yes
+C004,45,96000,Chicago,16,920,yes
+C005,31,,Boston,7,350,no
+C006,29,61000,New York,9,510,yes
+C007,52,110000,Chicago,20,1300,yes
+C008,26,42000,,4,180,no
+C009,38,81000,Boston,13,740,yes
+C010,33,68000,New York,10,560,no
+C011,41,88000,Chicago,14,810,yes
+C012,27,45000,Boston,6,270,no
+C013,36,76000,New York,11,620,yes
+C014,30,58000, Boston,8,390,no
+C015,44,92000,Chicago,15,880,yes
+C016,35,70000,Boston,10,590,yes
+C017,32,65000,New York,,460,no
+C018,39,84000,Chicago,12,720,yes
+C019,28,51000,Boston,7,310,no
+C020,37,79000,New York,11,660,yes
+C021,46,99000,Chicago,17,990,yes
+C022,25,39000,Boston,3,140,no
+C023,,62000,New York,9,480,yes
+C024,40,87000,Chicago,14,780,yes
+C025,34,750000,Boston,10,580,no
+C026,29,57000,New York,8,410,no
+C027,43,93000,Chicago,15,860,yes
+C028,31,63000,Boston,9,,no
+C029,48,104000,Chicago,18,1120,yes
+C030,36,77000,New York,12,640,yes
+C003,,48000, Boston ,5,240,yes
+C005,31,,Boston,7,350,no
